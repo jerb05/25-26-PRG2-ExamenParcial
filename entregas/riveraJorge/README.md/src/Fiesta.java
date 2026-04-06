@@ -6,3 +6,7 @@ public costeTotal (double costeTotal)}
 
 void alterarEstadoConfirmacion (String estadoConfirmacion)}
 void aforoCompleto (boolean estadoCompletado)}
+
+boolean invitadoAsistira
+boolean aforoCompleto
+String [listaInvitados] (Fiesta)
